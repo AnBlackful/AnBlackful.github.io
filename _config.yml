@@ -12,9 +12,9 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:
-facebook:
-instagram:          default
-github:             default
+# facebook:
+# instagram:          
+# github:             
 
 # personal
 location:           Беларусь, Минск
