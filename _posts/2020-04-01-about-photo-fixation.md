@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "О фото- и видеосъёмке"
-date: 2020-04-01
 excerpt: "Сбор информации в дежурной части"
 image: "images/pvp.png"
 ---
