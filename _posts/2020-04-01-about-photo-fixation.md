@@ -2,7 +2,7 @@
 layout: post
 title:  "О фото- и видеосъёмке"
 excerpt: <center>"Сбор информации в дежурной части"</center>
-image: "images/pvp.png"
+image: "images/no-cameras.jpg"
 ---
 
 ##Первый блок писем
