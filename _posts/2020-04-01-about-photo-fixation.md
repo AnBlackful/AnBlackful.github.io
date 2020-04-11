@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "О фото- и видеосъёмке"
-excerpt: "Сбор информации в дежурной части"
+excerpt: <center>"Сбор информации в дежурной части"</center>
 image: "images/pvp.png"
 ---
 
