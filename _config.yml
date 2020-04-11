@@ -12,13 +12,13 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:
-# facebook:
-# instagram:          
-# github:             
+ facebook:
+ instagram:          
+ github:             
 
 # personal
 location:           Беларусь, Минск
-# phone:
+phone:
 email:              friendlypolice@protonmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
