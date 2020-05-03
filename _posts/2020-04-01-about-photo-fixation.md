@@ -41,7 +41,7 @@ image: "images/no-cameras.jpg"
   <td>20.3</td>
   <td>30.5</td>
   <td>23.5</td>
-  <td>40.3</td>
+  <td>Письмо было отправлено <br>без личной подписи</td>
  </tr>
 <tr>
   <td>50.2</td>
@@ -51,7 +51,7 @@ image: "images/no-cameras.jpg"
   <td>50.2</td>
   <td>40.63</td>
   <td>45.23</td>
-  <td>39.3</td>
+  <td>Письмо было отправлено <br>без личной подписи</td>
 </tr>
   <tr>
   <td>20.4</td>
@@ -61,7 +61,7 @@ image: "images/no-cameras.jpg"
   <td>20.4</td>
   <td>15.6</td>
   <td>22.3</td>
-  <td>29.3</td>
+  <td>Письмо было отправлено <br>без личной подписи</td>
 </tr>
   <tr>
   <td>20.4</td>
@@ -71,7 +71,7 @@ image: "images/no-cameras.jpg"
   <td>20.4</td>
   <td>15.6</td>
   <td>22.3</td>
-  <td>29.3</td>
+  <td>Письмо было отправлено <br>без личной подписи</td>
 </tr>
   <tr>
   <td>20.4</td>
@@ -81,6 +81,6 @@ image: "images/no-cameras.jpg"
   <td>20.4</td>
   <td>15.6</td>
   <td>22.3</td>
-  <td>29.3</td>
+  <td>Письмо было отправлено без личной подписи</td>
 </tr>
 </table>
