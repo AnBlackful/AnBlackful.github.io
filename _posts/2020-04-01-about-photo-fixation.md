@@ -34,7 +34,6 @@ image: "images/no-cameras.jpg"
   <th>Дополнительно</th>
   </tr>
  <tr>
-  <td></td>
   <td>20.3</td>
   <td>30.5</td>
   <td>23.5</td>
@@ -45,7 +44,6 @@ image: "images/no-cameras.jpg"
   <td>40.3</td>
  </tr>
 <tr>
-  <td></td>
   <td>50.2</td>
   <td>40.63</td>
   <td>45.23</td>
