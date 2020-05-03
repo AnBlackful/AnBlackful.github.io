@@ -24,35 +24,56 @@ image: "images/no-cameras.jpg"
 
 <table>
 <tr>
-  <th>Test 1</th>
+  <th>Отделение</th>
   <th>Q1</th>
   <th>Q2</th>
   <th>Q3</th>
   <th>Q4</th>
   </tr>
  <tr>
-  <td>Test 2</td>
+  <td>пПсьмо отправлено</td>
   <td>20.3</td>
   <td>30.5</td>
   <td>23.5</td>
   <td>40.3</td>
  </tr>
 <tr>
-  <td>Test 3</td>
+  <td>Ответ получен</td>
   <td>50.2</td>
   <td>40.63</td>
   <td>45.23</td>
   <td>39.3</td>
 </tr>
 <tr>
-  <td>Test 4</td>
+  <td>Рассмотрение</td>
   <td>25.4</td>
   <td>30.2</td>
   <td>33.3</td>
   <td>36.7</td>
 </tr>
 <tr>
-  <td>Test 5</td>
+  <td>Нормы</td>
+  <td>20.4</td>
+  <td>15.6</td>
+  <td>22.3</td>
+  <td>29.3</td>
+</tr>
+  <tr>
+  <td>Текст ответа</td>
+  <td>20.4</td>
+  <td>15.6</td>
+  <td>22.3</td>
+  <td>29.3</td>
+</tr>
+  <tr>
+  <td>Текст обращения</td>
+  <td>20.4</td>
+  <td>15.6</td>
+  <td>22.3</td>
+  <td>29.3</td>
+</tr>
+  <tr>
+  <td>Дополнительно</td>
   <td>20.4</td>
   <td>15.6</td>
   <td>22.3</td>
